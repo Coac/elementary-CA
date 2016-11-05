@@ -4,7 +4,7 @@ Elementary Cellular Automata 1D
 
 ## Installation
 ```
-$ git clone https://github.com/SuperCoac/elementary-CA
+$ git clone https://github.com/Coac/elementary-CA
 $ cd elementary-CA
 $ npm install
 ```
