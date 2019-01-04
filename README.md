@@ -17,4 +17,4 @@ $ open http://localhost:8080/
 Running the webpack-dev-server.
 
 ## Example : rule 110
-![ok ok](https://i.gyazo.com/d1f525d20959200031b73eb9236e7cb2.gif)
+![rule110](docs/rule110.gif)
